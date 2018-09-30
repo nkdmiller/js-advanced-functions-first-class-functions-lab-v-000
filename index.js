@@ -16,5 +16,5 @@ const createFareMultiplier = function third(num){
 };
 
 const fareDoubler = function fifth(num){
-  return (num * )
-}
+  return (num * 2);
+};
