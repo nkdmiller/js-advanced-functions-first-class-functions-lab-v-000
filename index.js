@@ -23,4 +23,6 @@ const fareTripler = function sixth(num){
   return (num * 3);
 };
 
-const 
+const fetchSpecifiedDrivers = function seventh(array, fn){
+  return fn(array);
+};
