@@ -15,4 +15,6 @@ const createFareMultiplier = function third(num){
   };
 };
 
-const fareDoubler()
+const fareDoubler = function fifth(num){
+  return (num * )
+}
